@@ -1,0 +1,19 @@
+{
+    "name": "arun/excel",
+    "description": "excel download and upload",
+    "authors": [
+        {
+            "name": "arunkumar",
+            "email": "arun.gprs@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "maatwebsite/excel": "^2.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Arun\\Excel\\": "src/"
+        }
+    },
+}
